@@ -1,0 +1,22 @@
+body {
+  background-color: #ccff99;
+  background-image: url(back.png);
+  background-repeat: repeat-x;
+}
+
+h1 {
+  font-size: 360%;
+  color: #006600;
+}
+
+h2 {
+  border-left-width: 30px;
+  border-left-style: solid;
+  border-left-color: #00cc33;
+}
+
+ul {
+  line-height: 2em;
+  background-color: #ffffff;
+  list-style-type: none;
+}
